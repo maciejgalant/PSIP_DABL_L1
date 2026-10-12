@@ -7,3 +7,4 @@
 - Dominik - koniński
 - Jakub - chełmski
 - Tymoteusz - toruński
+- Maciej - kutnowski
